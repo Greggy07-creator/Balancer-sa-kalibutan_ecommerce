@@ -137,9 +137,6 @@ nav {
     font-weight: bold;
 }
 
-
-/* Product Page */
-
 .page-title {
     text-align: center;
     padding: 80px 20px 50px;
@@ -182,9 +179,6 @@ nav {
 .menu-item strong {
     display: block;
 }
-
-
-/* Contact */
 
 .contact {
     max-width: 600px;
@@ -234,9 +228,6 @@ button:hover {
     background: #3e2723;
 }
 
-
-/* Footer */
-
 footer {
     text-align: center;
     padding: 30px;
@@ -245,9 +236,6 @@ footer {
     font-size: 13px;
     margin-top: 30px;
 }
-
-
-/* Responsive */
 
 @media (max-width: 900px) {
 
@@ -284,19 +272,13 @@ footer {
 
 }
 
-resize: none;
-background: #fffaf3;
-
-font-weight: bold;
-display: block;
-
-label {}
+label {
+    margin-bottom: 35px;
 }
-
-margin-bottom: 35px;
 
 .contact>p {
     font-family: Georgia, serif;
     padding: 80px 20px;
     margin: auto;
     margin-top: 10px;
+}
